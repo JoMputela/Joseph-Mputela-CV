@@ -885,7 +885,7 @@ background-size: 100% 98%;
 /* ===== Flourish, heading horizontal lines, etc. ==== */
 @import url(
 
-fonts.googleapis.com/css?family=IBM+Plex+Serif&display=swap
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab|Slabo+27px&display=swap" rel="stylesheet">
 
   );
 
@@ -900,7 +900,7 @@ fonts.googleapis.com/css?family=IBM+Plex+Serif&display=swap
 .open-sans{font-family: 'Open Sans';}
 .bold{font-weight: 700;}
 .ls-medium{letter-spacing: 1px;}
-.tera {font-family: 'IBM Plex Serif', serif; font-size: 6.5rem; /* 117 / 18 = 6.5 */margin-bottom: 0.25385rem;}
+.tera {font-family: 'Roboto Slab', serif; font-size: 6.5rem; /* 117 / 18 = 6.5 */margin-bottom: 0.25385rem;}
 .epsilon {font-size: 1.16667rem; /* 21 / 18 = 1.1667 */margin-bottom: 1.41429rem;}
 /* ==== General styles ==== */
 .centered {
@@ -1296,11 +1296,6 @@ padding-left: 10px;
 
 
 
-
-.take-my-resume {
-  margin: 30px 0;
-  text-align: center;
-}
 
 
 
