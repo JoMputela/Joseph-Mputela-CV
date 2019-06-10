@@ -1042,6 +1042,8 @@ padding-left: 10px;
 .img-responsive {
   border-radius: 203px;
   border: solid;
+  margin-top: -20px;
+  height: 350px;
 }
 .kayo-intro-section.text-back {
   position: absolute;
